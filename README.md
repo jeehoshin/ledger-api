@@ -1,7 +1,7 @@
 # 💰 가계부 API (FastAPI + Supabase PostgreSQL)
 
-- **GitHub 저장소 주소**: (GitHub 업로드 후 입력 예정)
-- **Render 배포 주소**: (Render 배포 완료 후 입력 예정)
+- **GitHub 저장소 주소**: https://github.com/jeehoshin/ledger-api
+- **Render 배포 주소**: https://ledger-api-1a3h.onrender.com
 
 ---
 
